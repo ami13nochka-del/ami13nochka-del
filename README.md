@@ -23,10 +23,7 @@
 ### 📈 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ami13nochka-del&layout=compact&theme=tokyonight)
 
-### 🔥 Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=ami13nochka-del&theme=tokyonight&hide_border=true)
 
----
 
 ⭐️ Thanks for visiting my profile!  
 (づ｡◕‿‿◕｡)づ
