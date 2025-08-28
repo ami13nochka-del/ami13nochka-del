@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ami13nochka-del/ami13nochka-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
-Here are some ideas to get you started:
+## 🌱 About me
+- 💻 Beginner Python developer 
+- 🌱 Learning step by step, just starting my coding journey  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+- 🐍 Python — beginner level  
+- 🌀 Git & GitHub — learning basics  
+
+## 🎯 Goals
+- 🌐 Learn HTML & CSS (and maybe JavaScript)
+- 🐍 Improve Python skills  
+- 🚀 Try building small projects  
+
+---
+
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ami13nochka-del&show_icons=true&theme=tokyonight)
+
+### 📈 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ami13nochka-del&layout=compact&theme=tokyonight)
+
+### 🔥 Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=ami13nochka-del&theme=tokyonight&hide_border=true)
+
+---
+
+⭐️ Thanks for visiting my profile!  
+(づ｡◕‿‿◕｡)づ
+
+
